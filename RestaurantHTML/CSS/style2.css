@@ -1,0 +1,102 @@
+header h1{
+    text-align: center;
+    font-size: 700%;
+    color: brown;
+}
+header p{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 20px;
+    font-size: 300%;
+    color: aqua;
+}
+footer a{
+    font-family: 'Franklin Gothic Medium';
+    color: orangered;
+    float: right;
+    margin-top: 380px;
+    font-size: 200%;
+}
+footer h1{
+    font-family: 'Franklin Gothic Medium';
+    color: orangered;
+    float: left;
+    margin-top: 0px;
+    font-size: 200%;
+}
+.p-box-1{
+    float: left;
+    border: 2px solid black;
+    width: 19%;
+    margin-left: 20px;
+    height: 10cm;
+    background-color: silver;
+    margin-left: 20%;
+}
+.p-box-1 h1{
+    text-align: center;
+    font-family: Impact;
+    font-size: 300%;
+}
+.p-box-1 h3{
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 200%;
+}
+.p-box-1 p{
+    line-height: 1cm;
+    text-align: center;
+}
+.p-box-2{
+    float: left;
+    border: 2px solid orangered;
+    width: 19%;
+    margin-left: 20px;
+    height: 10cm;
+    background-color: black;
+}
+.p-box-2 h1{
+    text-align: center;
+    font-family: Impact;
+    font-size: 300%;
+    color: orangered;
+}
+.p-box-2 h3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    font-size: 200%;
+    color: orangered;
+}
+.p-box-2 p{
+    line-height: 1cm;
+    text-align: center;
+    color: orangered;
+}
+.p-box-3{
+    float: left;
+    border: 2px solid whitesmoke;
+    width: 19%;
+    margin-left: 20px;
+    height: 10cm;
+    background-color: orangered;
+}
+.p-box-3 h1{
+    text-align: center;
+    font-family: Impact;
+    font-size: 300%;
+    color: whitesmoke;
+}
+.p-box-3 h3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    font-size: 200%;
+    color: whitesmoke;
+}
+.p-box-3 p{
+    line-height: 1cm;
+    text-align: center;
+    color: whitesmoke;
+}

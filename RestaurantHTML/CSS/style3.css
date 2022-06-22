@@ -1,0 +1,15 @@
+body{
+    background-color: orangered;
+}
+body h1{
+    margin-left: 150px;
+    margin-bottom: 50px;
+    font-size: 500%;
+    color: antiquewhite;
+}
+body h2{
+    margin-left: 150px;
+    margin-bottom: 50px;
+    font-size: 200%;
+    color: azure;
+}

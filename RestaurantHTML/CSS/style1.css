@@ -1,0 +1,42 @@
+header{
+    background-color: orangered;
+    height: 200px;
+    width: 70%;
+}
+header img{
+    height: 600px;
+    width: 400px;
+    margin-left: 40px;
+}
+header h1{
+    float: right;
+    margin-right: 200px;
+    margin-top: -5px;
+    font-size: 700%;
+
+}
+footer{
+    background-color: orangered;
+    height: 100px;
+    width: 80%;
+    float: right;
+    margin-top: -100px;
+}
+footer a{
+    float: right;
+    font-size: 200%;
+    color: orangered;
+    margin-top: 100px;
+}
+.menu{
+    margin-left: 25%;
+    margin-top: -80px;
+    width: 800px;
+    height: 1000px;
+}
+.decor2{
+    height: 25%;
+    width: 25%;
+    margin-left: 69%;
+    margin-top: -1000px;
+}

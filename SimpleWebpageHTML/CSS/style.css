@@ -1,0 +1,85 @@
+header img{
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+header{
+    background-color: black;
+    height: 100px;
+    width: 1920px;
+}
+.head-tag{
+    float: right;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.head-tag a{
+    text-decoration: none;
+    margin: 5px;
+    border: 1px solid white;
+    color: white;
+    padding: 5px;
+}
+.head-tag a:hover{
+    background-color: aquamarine;
+    color: black;
+}
+h1{
+    margin-top: 120px;
+    margin-left: 50px;
+    font-family: 'arial black';
+    color: indigo;
+}
+.one{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+}
+.Login{
+    float: right;
+    border: 2px solid red;
+    background-color: silver;
+    margin: 20px;
+    padding: 50px;
+}
+.Login h2{
+    text-align: center;
+}
+.Login #Login-button{
+    text-align: center;
+    width: 100%;
+    color: whitesmoke;
+    background-color: red;
+}
+.container{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.p-box{
+    float: left;
+    border: 2px solid whitesmoke;
+    width: 19%;
+    margin-left: 20px;
+    height: 10cm;
+    background-color: goldenrod;
+}
+.p-box h3{
+    text-align: center;
+    font-family: Impact;
+    color: brown;
+    text-decoration: underline;
+}
+.p-box p{
+    line-height: 1cm;
+    text-align: center;
+}
+.p-box a{
+    text-decoration: none;
+    color: brown;
+}
+footer{
+    float: right;
+    color: aqua;
+}
